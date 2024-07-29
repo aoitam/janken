@@ -22,4 +22,5 @@ public class Gu implements Hand {
         return this.HAND_NAME;
     }
 
+    
 }
