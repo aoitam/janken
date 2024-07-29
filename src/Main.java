@@ -96,7 +96,7 @@ public class Main {
 //        System.out.println("ランダムなジャンケンの手をCPUにセットする");
 //        System.out.println(com.getHand().getHandName());
 
-
+        int result = Game.judge(user, com);
     }
 
 }
